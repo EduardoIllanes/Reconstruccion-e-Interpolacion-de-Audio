@@ -1,1 +1,2 @@
-# Reconstruccion-e-Interpolacion-de-Audio
+# Reconstrucción e Interpolación de Audio 
+Reconstrucción e interpolación de audio utilizando la arquitectura SIREN
